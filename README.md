@@ -1,5 +1,11 @@
 # Sink Protocol
 
+> [!IMPORTANT]
+> **Archived.** Sink has been replaced by [Weir](https://github.com/batchstream/weir),
+> whose public schemas and shared validation live in
+> [weir-protocol](https://github.com/batchstream/weir-protocol). Module version
+> v0.1.0 remains available but receives no fixes.
+
 Shared public protocol contracts for Sink services and client libraries.
 
 This module is the source of truth for the canonical record URI and typed key
